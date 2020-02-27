@@ -25130,7 +25130,7 @@ return h},
 $S:136}
 K.tT.prototype={
 G:function(a){var t=null,s=u.E
-return T.lI(C.bS,H.b([new U.xd(t),E.Yl(new T.ez(C.J,t,t,new T.dh(C.nH,T.nA(H.b([new K.uI(U.w6("assets/avatar.jpg",t,t).c,100,t),new T.ce(t,20,t,t),L.dN("UnicornShift",t,t,4),new T.ce(t,20,t,t),L.dN("On-demand Traffic Controlers.",K.ab(a).J.Q,C.fF,2),new T.ce(t,40,t,t),T.yt(H.b([N.Vf(new T.ce(20,20,U.w6("assets/instagram.png",t,t),t),L.dN("Instagram",t,t,t),new K.DT()),N.Vf(new T.ce(20,20,U.w6("assets/facebook.png",t,t),t),L.dN("Facebook",t,t,t),new K.DU()),N.Vf(new T.ce(20,20,U.w6("assets/linkedin.png",t,t),t),L.dN("Linkedin",t,t,t),new K.DV())],s),C.aF,C.ou,C.c8)],s),C.aF,C.aY,C.c8),t),t))],s),C.bQ)}}
+return T.lI(C.bS,H.b([new U.xd(t),E.Yl(new T.ez(C.J,t,t,new T.dh(C.nH,T.nA(H.b([new K.uI(U.w6("assets/avatar.jpg",t,t).c,100,t),new T.ce(t,20,t,t),L.dN("UnicornShift",t,t,4),new T.ce(t,20,t,t),L.dN("On-demand Traffic Controllers.",K.ab(a).J.Q,C.fF,2),new T.ce(t,40,t,t),T.yt(H.b([N.Vf(new T.ce(20,20,U.w6("assets/instagram.png",t,t),t),L.dN("Instagram",t,t,t),new K.DT()),N.Vf(new T.ce(20,20,U.w6("assets/facebook.png",t,t),t),L.dN("Facebook",t,t,t),new K.DU()),N.Vf(new T.ce(20,20,U.w6("assets/linkedin.png",t,t),t),L.dN("Linkedin",t,t,t),new K.DV())],s),C.aF,C.ou,C.c8)],s),C.aF,C.aY,C.c8),t),t))],s),C.bQ)}}
 K.DT.prototype={
 $0:function(){return C.a8.iQ(window,"","UnicornShift")},
 $S:15}
